@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://demitele.github.io/sitemap
+Sitemap: https://demitele.github.io/app/sitemap
+Sitemap: https://demitele.github.io/assets/sitemap
+Sitemap: https://demitele.github.io/css/sitemap
+Sitemap: https://demitele.github.io/includes/sitemap
+Sitemap: https://demitele.github.io/item/sitemap
+Sitemap: https://demitele.github.io/src/sitemap
